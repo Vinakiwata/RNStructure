@@ -22,7 +22,6 @@ const SplashScreen : React.FC<Props> = (props) => {
     //         props.navigation.navigate("LoginScreen");
     //     }
     // },[auth])
-    console.log("=====props",props)
     return(
         <SafeAreaView style={{ flex: 1}}>
             <View  style={{ flex: 1, justifyContent: 'center', alignItems: 'center'}}>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bangbui/Downloads/ProjectGHN/Nhanh/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
+            "outputFile": "/Users/bangbui/Downloads/ProjectGHN/RNStructure/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
             "map": [
                 {
                     "source": "/Users/bangbui/.gradle/caches/transforms-2/files-2.1/dcffa74d8d015470a7eae32b9eb648c7/jetified-play-services-basement-17.0.0/res/values-el/values.xml",
