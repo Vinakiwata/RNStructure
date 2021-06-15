@@ -1,0 +1,6 @@
+module Pods_Nhanh {
+  umbrella header "Pods-Nhanh-umbrella.h"
+
+  export *
+  module * { export * }
+}

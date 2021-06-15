@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nhanh.iml" filepath="$PROJECT_DIR$/.idea/modules/Nhanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Nhanh.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Nhanh.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1932453842/Nhanh.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1932453842/Nhanh.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1846317917/Nhanh.react-native-config.iml" filepath="$PROJECT_DIR$/.idea/modules/-1846317917/Nhanh.react-native-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2116603076/Nhanh.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/2116603076/Nhanh.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1489380677/Nhanh.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1489380677/Nhanh.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1777106505/Nhanh.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1777106505/Nhanh.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1722089582/Nhanh.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1722089582/Nhanh.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/962818566/Nhanh.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/962818566/Nhanh.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

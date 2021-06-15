@@ -1,0 +1,6 @@
+module Pods_Nhanh_NhanhTests {
+  umbrella header "Pods-Nhanh-NhanhTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
