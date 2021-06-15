@@ -1677,6 +1677,7 @@ id start
 id stretch
 id submenuarrow
 id submit_area
+id surface_view
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1699,6 +1700,7 @@ id text_input_start_icon
 id textinput_counter
 id textinput_error
 id textinput_helper_text
+id texture_view
 id time
 id title
 id titleDividerNoCustom
@@ -1846,6 +1848,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout surface_view
 layout test_action_chip
 layout test_design_checkbox
 layout test_reflow_chipgroup
@@ -1858,6 +1861,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout texture_view
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

@@ -187,6 +187,12 @@ dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+"  // From node_modules
+    implementation "com.google.zxing:core:3.3.3"
+    implementation "com.drewnoakes:metadata-extractor:2.11.0"
+//    generalImplementation "com.google.android.gms:play-services-vision:$googlePlayServicesVisionVersion"
+    implementation 'com.google.android.gms:play-services-vision:20.1.2'
+    implementation "androidx.exifinterface:exifinterface:1.3.2"
+    implementation "androidx.annotation:annotation:1.0.0"
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
 
